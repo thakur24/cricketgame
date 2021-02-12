@@ -1,0 +1,17 @@
+body{
+    background-size: auto;
+    color: white;
+  }
+  .row {
+    text-align: center;
+    overflow: scroll;
+  
+  }
+  .col-4 {
+    padding: 20px;
+    line-height: 10px;
+  }
+  
+  #start{
+    padding: 20px;
+  }
